@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+ariana_fake_data/
+*.db
